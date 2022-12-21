@@ -1,4 +1,4 @@
-# Laravel-Blog-Project
+# Technical Code Project 
   
 STEPS TO INITIATE SITE:
 ->Extract the Project.zip to any destination folder of your choice.
